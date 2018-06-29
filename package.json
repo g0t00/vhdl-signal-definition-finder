@@ -1,10 +1,9 @@
 {
   "name": "vhdl-signal-definition-finder",
   "main": "./lib/vhdl-signal-definition-finder",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Find VHDL signal definitions",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "vhdl-signal-definition-finder:show"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
