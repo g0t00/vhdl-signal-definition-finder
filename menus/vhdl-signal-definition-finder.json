@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Show Signal/Constant Info",
+        "command": "vhdl-signal-definition-finder:show"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vhdl-signal-definition-finder",
+          "submenu": [
+            {
+              "label": "Show Signal/Constant Info",
+              "command": "vhdl-signal-definition-finder:show"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "atom-text-editor[data-grammar='source vhdl']": {
+    "ctrl-alt-i": "vhdl-signal-definition-finder:show"
+  }
+}
