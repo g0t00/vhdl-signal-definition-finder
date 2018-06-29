@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "vhdl-signal-definition-finder:show"
   },
-  "repository": "https://github.com/atom/vhdl-signal-definition-finder",
+  "repository": "https://github.com/g0t00/vhdl-signal-definition-finder",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
