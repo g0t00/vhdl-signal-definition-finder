@@ -1,7 +1,7 @@
 {
   "name": "vhdl-signal-definition-finder",
   "main": "./lib/vhdl-signal-definition-finder",
-  "version": "0.8.0",
+  "version": "0.0.0",
   "description": "Find VHDL signal definitions",
   "keywords": [],
   "activationCommands": {
@@ -11,7 +11,7 @@
       "vhdl-signal-definition-finder:check-reset"
     ]
   },
-  "repository": "g0t00@github.com:g0t00/vhdl-signal-definition-finder.git",
+  "repository": "https://github.com/g0t00/vhdl-signal-definition-finder",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
