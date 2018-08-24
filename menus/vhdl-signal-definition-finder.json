@@ -4,6 +4,10 @@
       {
         "label": "Show Signal/Constant Info",
         "command": "vhdl-signal-definition-finder:show"
+      },
+      {
+        "label": "Check Register Reset",
+        "command": "vhdl-signal-definition-finder:check-reset"
       }
     ]
   },
@@ -17,6 +21,14 @@
             {
               "label": "Show Signal/Constant Info",
               "command": "vhdl-signal-definition-finder:show"
+            },
+            {
+              "label": "Jump to Signal/Constant Definition",
+              "command": "vhdl-signal-definition-finder:jump"
+            },
+            {
+              "label": "Check Register Reset",
+              "command": "vhdl-signal-definition-finder:check-reset"
             }
           ]
         }
